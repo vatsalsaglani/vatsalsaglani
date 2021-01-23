@@ -3,11 +3,10 @@
 ![Twitter: saglanivatsal](https://img.shields.io/twitter/follow/saglanivatsal?label=VATSAL%20SAGLANI&style=social)
 <div>
     <div>
+        <img align='right' src = "https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" ></img>
         <p>
         I am currently working as a <a href="http://www.quinnox.com">Consultant - Machine Learning at Quinnox</a>. My day job is mostly similar to every <b>"Day in life of a Data Scientist"</b> video out there on YouTube 😅. The rest of what's left of my day goes in research and writing and re-writing blogs on Medium.
         </p>
-        <img align='right' src = "https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" >
-        </img>
     </div>
 </div>
 
