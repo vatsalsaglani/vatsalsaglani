@@ -27,7 +27,8 @@ vatsalInfoDict = {
 ```
 
 <br />
-### Do you write? I do 🖐️ 
+
+<h3>Do you write? I do 🖐️ </h3>
 
 ![Medium: thevatsalsaglani](https://img.shields.io/badge/-thevatsalsaglani-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://thevatsalsaglani.medium.com)
 
