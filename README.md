@@ -34,7 +34,7 @@ vatsalInfoDict = {
 
 ![Medium: thevatsalsaglani](https://img.shields.io/badge/-thevatsalsaglani-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://thevatsalsaglani.medium.com)
 
-
+- [What is CLIP (Contrastive Language — Image Pre-training) and how it can be used for semantic image search? 🎑](https://medium.com/towards-artificial-intelligence/what-is-clip-contrastive-language-image-pre-training-and-how-it-can-be-used-for-semantic-image-b02ccf49414e)
 - [Deploy Deep Learning models using Streamlit and Heroku 🚀](https://medium.com/towards-artificial-intelligence/deploy-deep-learning-models-using-streamlit-and-heroku-22f6efae9141)
 - [Question Classification using Self-Attention Transformers ♟️](https://medium.com/nerd-for-tech/question-classification-using-self-attention-transformer-part-1-33e990636e76)
 - [Train and Deploy Multi-Label Image classifier 🎑](https://thevatsalsaglani.medium.com/training-and-deploying-a-multi-label-image-classifier-using-pytorch-flask-reactjs-and-firebase-c39c96f9c427)
