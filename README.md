@@ -1,4 +1,4 @@
-## Hi there 👋, my name is [Vatsal](https://thevatsalsaglani.xyz) 
+## Hi there 👋, my name is [Vatsal](https://appliedeverything.ml/) 
 ![LinkedIn: vatsalsaglani](https://img.shields.io/badge/-Vatsal%20Saglani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatsalsaglani/)
 ![Twitter: saglanivatsal](https://img.shields.io/twitter/follow/saglanivatsal?label=VATSAL%20SAGLANI&style=social)
 <div>
