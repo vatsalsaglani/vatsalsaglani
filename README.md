@@ -5,7 +5,7 @@
     <div>
         <img align='right' src = "https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" ></img>
         <p>
-        I am currently working as a <a href="https://www.qyrus.com/">Lead Data Science Engineer - GenAI</a>. My day job is mostly similar to every <b>"Day in life of a Data Scientist"</b> video out there on YouTube 😅. The rest of what's left of my day goes into research and writing and re-writing blogs on Medium.
+        I am currently working as a <a href="https://www.qyrus.com/">Data Science Lead - GenAI</a>. My day job is mostly similar to every <b>"Day in life of a Data Scientist"</b> video out there on YouTube 😅. The rest of what's left of my day goes into research and writing and re-writing blogs on Medium.
         </p>
     </div>
 </div>
