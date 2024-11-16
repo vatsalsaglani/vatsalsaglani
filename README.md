@@ -1,6 +1,8 @@
 ## Hi there 👋, my name is [Vatsal](https://vatsalsaglani.vercel.app/) 
 ![LinkedIn: vatsalsaglani](https://img.shields.io/badge/-Vatsal%20Saglani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatsalsaglani/)
 ![Twitter: saglanivatsal](https://img.shields.io/twitter/follow/saglanivatsal?label=VATSAL%20SAGLANI&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/vatsalsaglani)
+
 <div>
     <div>
         <img align='right' src = "https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" ></img>
